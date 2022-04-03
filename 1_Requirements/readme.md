@@ -1,4 +1,4 @@
-**###Introduction
+## Introduction
 
  This application allows you to execute the bus ticket reservation and cancellation, view the bus status and also the refund. 
 
